@@ -4,7 +4,6 @@ import csv
 vote_csv = "/Users/caitlindonovan/Desktop/ColumbiaBootcamp/Homework/python-challenge/PyPoll/Resources/election_data.csv"
 export_file = "/Users/caitlindonovan/Desktop/ColumbiaBootcamp/Homework/python-challenge/PyPoll/PyPoll.txt"
 import pandas as pd 
-import statistics
 
 # Set Vote Counter
 total_votes = 0
